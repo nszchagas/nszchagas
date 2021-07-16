@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nszchagas. I'm a brazilian 25 years old math teacher (for 7th graders) and software engineering (4th period) student at University of Brasília (UnB). 
+- 👀 I’m interested in back-end and data science. 
+- 🌱 I’m currently learning Python. 
+- 📫 You can reach me at my e-mail: nszchagas@gmail.com. 
