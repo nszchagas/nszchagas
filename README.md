@@ -8,7 +8,7 @@
 - I'm a fast learner and driven by challenges, learning is my favorite hobby. Besides programming, I also like to study languages - mostlyEnglish, French and Spanish - and Math (which in some sort of way is also a language).
 - I'm interested in the following areas: fullstack development and DevOPS.
 
-- You can reach me at my e-mail: nszchagas@gmail.com. 
+- You can reach me at my e-mail: nicolas.souza@aluno.unb.br
 
 # What have I been up to?
 
