@@ -13,6 +13,16 @@
 
 # What have I been up to?
 
+## Public Projects
+
+Besides my work, I'm involved in theses projects:
+- [Human Interaction Interface project](https://interacao-humano-computador.github.io/2022.2-Lichess/)
+- [Software Requirements project](https://requisitos-de-software.github.io/2022.2-Lichess/)
+
+And I'm registering my class notes in these github pages:
+- [Operational Systems class notes](https://nszchagas.github.io/FSO-notes/)
+- [Data Structures class notes](https://nszchagas.github.io/EDA2-notes/)
+
 
 ## That's how I've spent the last 7 days:
 
