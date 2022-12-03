@@ -1,6 +1,6 @@
 # Who am I?
 
-- My name is Nicolas, I'm a 26 years old fullstack developer and software engineering (5th period) student at University of Brasília (UnB). 
+- My name is Nicolas, I'm a 26 years old fullstack developer and software engineering (6th period) student at University of Brasília (UnB). 
 - That's my second graduation, for I'm undegraduate in Mathematics, which I completed at University of Brasília (UnB) in 2018.
 - I've been working as a fullstack developer since December of 2021, and was promoted from intern to trainee in May of 2022.
 - Before working as a developer, I worked as a math teacher, between Fev/2019 and May/2022, and this work helped me develop soft skills while dealing with teens. 
