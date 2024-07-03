@@ -63,15 +63,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nszchagas/)
 
 
-## Coding Activity from the Last Year
-
-<figure><img src="https://wakatime.com/share/@3252f20d-53a9-4085-98b6-05b2630da4dc/ed3ef6b2-fef5-4bab-8ad7-e003adfaf17e.svg" alt="Coding Activity from the Last Year"></figure>
-
-## Most Used Languages in the Last 30 Days
-
-<figure><img src="https://wakatime.com/share/@3252f20d-53a9-4085-98b6-05b2630da4dc/5509ba02-b21f-488f-aeaf-bd67d4ae7f4c.svg" alt="Most Used Languages in the Last 30 Days"></figure>
-
-
 ## Project Showcase
 
 | Project | Timeline | Description | Technologies |
